@@ -1,0 +1,16 @@
+IssueKey,Summary,IssueType,RiskScore,BusinessImpact,Assignee,LinkedPRID
+CRS-201,Critical security fix for auth token validation bypass,Incident,10,10,shahd.moahmed,PR-201
+CRS-202,High-impact bugfix for checkout null pointer crash,Bug,8,9,malak.hesham,PR-202
+CRS-203,Add advanced dashboard filtering feature,Story,5,7,sama.ashraf,PR-203
+CRS-204,Clarify API pagination docs,Task,1,3,shahd.moahmed,PR-204
+CRS-205,Critical hotfix for payment retry infinite loop,Incident,9,10,malak.hesham,PR-205
+CRS-206,Refactor notification dispatcher threads safely,Spike,8,6,shahd.moahmed,PR-206
+CRS-207,Security hardening with strict CSP headers,Task,9,8,shahd.moahmed,PR-207
+CRS-208,Add onboarding tooltip hints,Story,3,4,sama.ashraf,PR-208
+CRS-209,Stabilize webhook timeout handling,Bug,7,7,shahd.moahmed,PR-209
+CRS-210,Backfill missing invoice events for data integrity,Incident,7,9,nada.ahmed,PR-210
+CRS-211,Remove deprecated sync endpoint,Task,4,5,nada.ahmed,PR-211
+CRS-212,Add compliance audit trail for admin exports,Story,6,8,malak.hesham,PR-212
+CRS-213,Improve mobile table spacing polish,Task,2,4,salma.yasser,PR-213
+CRS-214,Urgent security hotfix to rotate exposed integration key,Incident,10,9,shahd.moahmed,PR-214
+CRS-215,Optimize search index batching for performance,Story,6,6,malak.hesham,PR-215
